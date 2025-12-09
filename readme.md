@@ -23,21 +23,21 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/Framework-Django-green?style=flat&logo=django" />
-  <img src="https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Language-Java-red?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/Language-C-lightgrey?style=flat&logo=c" />
-  <img src="https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows" />
-  <img src="https://img.shields.io/badge/OS-Linux-black?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/OS-macOS-silver?style=flat&logo=apple" />
-  <img src="https://img.shields.io/badge/Framework-SpringBoot-green?style=flat&logo=springboot" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazonaws" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="50" height="50"/>
 </p>
 
 ---
@@ -56,17 +56,6 @@
 - 🎶 Listening to music  
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhu463&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu463&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## ✨ Fun Fact
-I love blending creativity with technology — whether it’s building systems, automating tasks, or learning something new every day!
 
 <!-- Footer Banner -->
 <p align="center">
