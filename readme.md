@@ -6,7 +6,7 @@
 <!-- Typing effect -->
 <p align="center">
   <a href="https://github.com/prabhu463">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Cloud+and+Deployment+Enthusiast;Always+Learning+New+Tools" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Cloud+Deployment+Enthusiast;Always+Learning+New+Tools" />
   </a>
 </p>
 
@@ -44,9 +44,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" alt="Vercel" width="50" height="50"/>
-  <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/render-examples/branding/main/render-logo.png" alt="Render" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/vercel/next.js/canary/examples/cms-wordpress/public/vercel.svg" alt="Vercel" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="Netlify" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/56399516?s=200&v=4" alt="Render" width="50" height="50"/>
   
   <!-- Operating Systems -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
