@@ -1,77 +1,89 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=180&section=header&text=Prabhu%20Ramesh%20Hondappagol&fontSize=45&fontColor=ffffff&fontAlignY=55&animation=fadeIn" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Prabhu%20Ramesh&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlign=50&descAlignY=60&descSize=25" width="100%"/>
+</div>
 
-<!-- Typing effect -->
-<p align="center">
+<div align="center">
   <a href="https://github.com/prabhu463">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Cloud+Deployment+Enthusiast;Always+Learning+New+Tools" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2386F7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Exploring+Cloud+Architecture;Contributing+to+Open+Source;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
----
+<div align="center">
+  <a href="mailto:prabhuhondappagol@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/prabhu463">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-# 👋 Hi, I'm Prabhu Ramesh Hondappagol  
+<br/>
 
-💻 **Full Stack Developer (FSD)**  
-🌍 Bengaluru, Karnataka, India  
-📫 Reach me at: **prabhuhondappagol@gmail.com**  
-🔗 More links (LinkedIn, Portfolio, etc.) coming soon!  
-
----
-
-## 🚀 Tech Stack
+<h3 align="center">👋 About Me</h3>
 <p align="center">
-  <!-- Core Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-  
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  
-  <!-- Cloud & Deployment -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/vercel/next.js/canary/examples/cms-wordpress/public/vercel.svg" alt="Vercel" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" alt="Netlify" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/56399516?s=200&v=4" alt="Render" width="50" height="50"/>
-  
-  <!-- Operating Systems -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="50" height="50"/>
+  I am a pre-final year <b>Computer Science Engineer</b> based in <b>Bengaluru, India</b>.<br>
+  Passionate about building full-stack applications and solving real-world problems through code.<br>
+  Currently exploring <b>DevOps</b> and <b>Cloud Native</b> technologies.
 </p>
 
 ---
 
-## 🎯 Projects
-- ✈️ **Aircraft Management System**  
-- 📱 **Cell Phone Detector using Arduino**  
-- 💰 **Personal Expense Tracker**  
-- 🛒 **E-Commerce Website**  
+<h3 align="center">🛠️ Technologies & Tools</h3>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  
+</div>
 
 ---
 
-## 🎵 Hobbies
-- 👨‍💻 Coding & exploring new tools  
-- 🏏 Playing cricket & ⚽ football  
-- 🎶 Listening to music  
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhu463&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhu463&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
+
+<br/>
+
+<h3>🚀 Featured Projects</h3>
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **✈️ Aircraft Mgmt System** | `Java` `Spring` | A comprehensive system to manage airline fleets and schedules. |
+| **📱 Cell Phone Detector** | `Arduino` `C++` | IoT based solution to detect active mobile signal frequencies. |
+| **💰 Expense Tracker** | `React` `Django` | Full-stack personal finance management tool. |
+| **🛒 E-Commerce App** | `React` `Firebase` | A modern shopping platform with cart and payment integration. |
 
 ---
 
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00c6ff&height=120&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
